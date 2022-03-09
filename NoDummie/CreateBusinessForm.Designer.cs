@@ -263,7 +263,7 @@
             this.pictureBox_business_logo.Location = new System.Drawing.Point(702, 86);
             this.pictureBox_business_logo.Name = "pictureBox_business_logo";
             this.pictureBox_business_logo.Size = new System.Drawing.Size(96, 96);
-            this.pictureBox_business_logo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
+            this.pictureBox_business_logo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox_business_logo.TabIndex = 25;
             this.pictureBox_business_logo.TabStop = false;
             this.pictureBox_business_logo.Click += new System.EventHandler(this.pictureBox_business_logo_Click);

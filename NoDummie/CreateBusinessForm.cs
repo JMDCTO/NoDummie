@@ -27,7 +27,6 @@ namespace NoDummie
                 addBusinessToSystem();
                 sendPicturesToDatabase();
                 addBusinessExtraDataToSystem();
-
             }
             else
             {

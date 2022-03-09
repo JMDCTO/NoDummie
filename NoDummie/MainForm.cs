@@ -55,5 +55,11 @@ namespace NoDummie
             BusinessForm businessForm = new BusinessForm();
             businessForm.Show();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            CategoriesForm categoriesForm = new CategoriesForm();
+            categoriesForm.Show();
+        }
     }
 }
